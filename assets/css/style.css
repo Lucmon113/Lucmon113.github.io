@@ -58,8 +58,8 @@
   color: #0077b5;
 }
 
-.angellist {
-  color: grey;
+.stackoverflow {
+  color: orange;
 }
 
 .icon-btn:hover {
@@ -71,8 +71,8 @@
   background-color: #0077b5;
 }
 
-.angellist:hover {
-  background-color: grey;
+.stackoverflow:hover {
+  background-color: orange;
 }
 
 .github:hover {
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #0379ab;
 }
 
 /* main blockqoute */
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #f5deab repeat;
   position: relative;
 }
 
