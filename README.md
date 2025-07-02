@@ -1,3 +1,12 @@
+> Created using the template made by Varad Bhogayata and modified by me following the user agreement and MIT license
+
+
+
+
+
+
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
